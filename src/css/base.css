@@ -1,0 +1,67 @@
+.el-submenu__title{
+    height:60px;
+    line-height:60px;
+}
+.el-menu-item-group__title{
+    padding:0;
+  }
+  .el-menu-item {
+    background: #2d8d89!important;
+  }
+  .el-submenu__title i{
+    color:#fff;
+  }
+  .headerClass{
+    font-weight: bold;
+    color: #555555;
+  }
+  .el-table tbody tr:nth-child(even) { 
+    background-color:rgb(245, 245, 245);
+   }
+   .el-textarea__inner{
+     width:400px;
+     height:400px;
+   }
+
+  .fz_24{
+    font-size:24px;
+  }
+  .fz_18{
+    font-size:18px;
+  }
+  .pd-t-10{
+    padding-top:10px;
+  }
+  .pd-t-15{
+    padding-top:15px;
+  }
+  .pd-b-10{
+    padding-bottom:10px;
+  }
+  .pd-b-15{
+    padding-bottom:15px;
+  }
+  .pd-l-10{
+    padding-left:10px;
+  }
+  .pd-l-15{
+    padding-left:15px;
+  }
+  .pd-r-10{
+    padding-right:10px;
+  }
+  .pd-r-15{
+    padding-right:15px;
+  }
+  .mg-t-10{
+    margin-top:10px;
+  }
+  .mg-t-20{
+    margin-top:20px;
+  }
+  .mg-t-30{
+    margin-top:30px;
+  }
+  .mg-l-10{
+    margin-left:10px;
+  }
